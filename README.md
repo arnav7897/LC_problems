@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
