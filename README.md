@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
