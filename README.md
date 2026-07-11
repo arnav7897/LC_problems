@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/arnav7897/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/arnav7897/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
