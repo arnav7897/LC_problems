@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arnav7897/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
+| [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
