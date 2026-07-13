@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
