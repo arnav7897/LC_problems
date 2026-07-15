@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0064-minimum-path-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
