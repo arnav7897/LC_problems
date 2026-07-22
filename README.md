@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
