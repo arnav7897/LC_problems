@@ -1,0 +1,67 @@
+class Solution {
+public:
+    void solve(vector<vector<char>>& board) {
+
+        int n = board.size();
+        int m = board[0].size();
+
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        queue<pair<int, int>> q;
+
+        for (int i = 0; i < m; i++) {
+            if (board[0][i] == 'O') {
+                q.push({0, i});
+                vis[0][i] = true;
+            }
+        }
+
+        for (int i = 0; i < m; i++) {
+            if (board[n - 1][i] == 'O' && !vis[n - 1][i]) {
+                q.push({n - 1, i});
+                vis[n - 1][i] = true;
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (board[i][0] == 'O' && !vis[i][0]) {
+                q.push({i, 0});
+                vis[i][0] = true;
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (board[i][m - 1] == 'O' && !vis[i][m - 1]) {
+                q.push({i, m - 1});
+                vis[i][m - 1] = true;
+            }
+        }
+
+        int dx[] = {-1, 1, 0, 0};
+        int dy[] = {0, 0, -1, 1};
+
+        while (!q.empty()) {
+            auto [a, b] = q.front();
+            q.pop();
+
+            for (int i = 0; i < 4; i++) {
+                int x = a + dx[i];
+                int y = b + dy[i];
+
+                if (x >= 0 && y >= 0 && x < n && y < m && !vis[x][y] &&
+                    board[x][y] == 'O') {
+
+                    vis[x][y] = true;
+                    q.push({x, y});
+                }
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 'O' && !vis[i][j]) {
+                    board[i][j] = 'X';
+                }
+            }
+        }
+    }
+};
