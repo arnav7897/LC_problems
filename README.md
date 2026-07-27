@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/arnav7897/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arnav7897/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/arnav7897/Leetcode_questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/arnav7897/Leetcode_questions/tree/master/0802-find-eventual-safe-states) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/arnav7897/Leetcode_questions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -230,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
