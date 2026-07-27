@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/arnav7897/Leetcode_questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Stack
 |  |
 | ------- |
