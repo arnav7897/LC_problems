@@ -1,29 +1,46 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int s = 0;
-        int e = nums.size()-1;
-        vector<int> ans;
-        while(e>=s){
-            int mid = s + (e-s)/2;
-            if(nums[mid] == target){
-                int temp = mid;
-                while(temp<nums.size() && nums[temp] == target){
-                    temp++;
-                }
-                ans.push_back(temp-1);
-                temp = mid-1;
-                while(temp >=0 && nums[temp] == target){
-                    temp--;
-                }
-                ans.insert(ans.begin(),temp+1);
-                return ans;
-            }else if(nums[mid] > target){
+    int firstOccurrence(vector<int>& nums, int target) {
+        int s = 0, e = nums.size() - 1;
+        int ans = -1;
+
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
                 e = mid - 1;
-            }else{
+            } else if (nums[mid] < target) {
                 s = mid + 1;
+            } else {
+                e = mid - 1;
             }
         }
-        return {-1 , -1};
+
+        return ans;
+    }
+
+    int lastOccurrence(vector<int>& nums, int target) {
+        int s = 0, e = nums.size() - 1;
+        int ans = -1;
+
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                s = mid + 1;
+            } else if (nums[mid] < target) {
+                s = mid + 1;
+            } else {
+                e = mid - 1;
+            }
+        }
+
+        return ans;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        return {firstOccurrence(nums, target), lastOccurrence(nums, target)};
     }
 };
