@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arnav7897/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arnav7897/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnav7897/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
