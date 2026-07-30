@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/arnav7897/Leetcode_questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
