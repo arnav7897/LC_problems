@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arnav7897/Leetcode_questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/arnav7897/Leetcode_questions/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/arnav7897/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arnav7897/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnav7897/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
