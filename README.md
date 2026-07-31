@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -218,10 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
@@ -285,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
