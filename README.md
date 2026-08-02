@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arnav7897/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arnav7897/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arnav7897/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnav7897/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
