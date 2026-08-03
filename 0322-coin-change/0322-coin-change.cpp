@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int solve(vector<int> &c , int amt , int idx , vector<vector<int>> &dp){
-        if(idx<0){
-            if(amt == 0){
-                return 0;
-            }else{
-                return INT_MAX;
-            }
+    int help(vector<int>& c , vector<vector<int>>&dp , int s , int a){
+        if(a==0){
+            return 0;
         }
-        if(dp[idx][amt] != -1){
-            return dp[idx][amt];
+
+        if(s == 0){
+            return 1e9;
         }
-        if(amt >= c[idx]){
-            int accept = solve(c,amt-c[idx],idx,dp);
-            if(accept != INT_MAX){
-                accept++;
-            }
-            return dp[idx][amt] = min( solve(c,amt,idx-1 , dp) , accept);
+        
+        if(dp[s][a] != -1){
+            return dp[s][a];
         }
-        return dp[idx][amt] = solve(c,amt,idx-1 , dp);
+
+        int c2 = INT_MAX;
+        int c1 = help(c , dp , s-1 , a);
+        
+        if(a >= c[s-1]){
+            c2 = 1 + help(c, dp , s , a-c[s-1]);
+        }
+        
+        return dp[s][a] = min(c1 , c2);
     }
-    int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>> dp(n ,vector<int> (amount+1,-1) );
-        int ans = solve(coins , amount , n-1 , dp);
-        if(ans == INT_MAX){
-            return -1;
-        }else{
-            return ans;
-        }
-    }   
+    int coinChange(vector<int>& c, int a) {
+        int n = c.size();
+        vector<vector<int>> dp(n+1 , vector<int>(a+1, -1));
+        int ans = help(c , dp , n , a);
+        return (ans >= 1e9) ? -1 : ans; 
+   }
 };
