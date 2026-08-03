@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/arnav7897/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/arnav7897/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arnav7897/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/arnav7897/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/arnav7897/Leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
