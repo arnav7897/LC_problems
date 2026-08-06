@@ -17,7 +17,18 @@ public:
     }
     int maxProfit(vector<int>& p) {
         int n = p.size();
-        vector<vector<int>> dp(n , vector<int>(2,-1));
-        return solve(p , 0 , true ,dp);   
+        vector<vector<int>> dp(n+1 , vector<int>(2,0));
+        dp[n][0] = 0;
+        dp[n][1] = 0;
+        for(int i = n-1; i>=0 ;i--){
+            for(int j = 1; j>=0;j--){
+                if(j == 1){
+                    dp[i][j] = max(dp[i+1][j] , p[i]);
+                }else{
+                    dp[i][j] = max(dp[i+1][j+1] - p[i], dp[i+1][j]);
+                }
+            }
+        }
+        return dp[0][0];   
     }
 };
