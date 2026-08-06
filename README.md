@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/arnav7897/Leetcode_questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0064-minimum-path-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
@@ -249,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnav7897/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0567-permutation-in-string) |
