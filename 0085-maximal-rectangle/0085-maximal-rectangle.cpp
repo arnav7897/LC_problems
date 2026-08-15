@@ -28,7 +28,6 @@ public:
             st.pop();
         }
 
-        // Next Smaller to Right
         for (int i = n - 1; i >= 0; i--) {
 
             while (!st.empty() && h[st.top()] >= h[i]) {
@@ -44,7 +43,6 @@ public:
             st.push(i);
         }
 
-        // Calculate maximum area
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
