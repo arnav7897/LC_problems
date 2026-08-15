@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/arnav7897/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
