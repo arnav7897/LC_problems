@@ -9,19 +9,18 @@ public:
         int left = height(root->left, ans);
         int right = height(root->right, ans);
 
-        int dia = left + right;
-
-        *ans = max(*ans, dia);
-
-        return 1 + max(left, right);
+        int temp = 1+max(left , right);
+        int res = max(temp , left + right +1);
+        *ans = max(*ans, res);
+        return temp;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
 
-        int ans = 0;
+        int ans = INT_MIN;
 
         height(root, &ans);
 
-        return ans;
+        return ans-1;
     }
 };
