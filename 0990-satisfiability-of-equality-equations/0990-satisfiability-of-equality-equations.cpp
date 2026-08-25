@@ -1,49 +1,57 @@
 class Solution {
 public:
+    int parent[26];
+    int rank[26];
 
-    bool equationsPossible(vector<string>& e) {
+    int find(int x) {
+        if (parent[x] == x)
+            return x;
 
-        unordered_map<char, vector<char>> mp;
+        return parent[x] = find(parent[x]);
+    }
 
-        for (auto &s : e) {
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
+
+        if (a == b)
+            return;
+
+        if (rank[a] < rank[b]) {
+            parent[a] = b;
+        }
+        else if (rank[a] > rank[b]) {
+            parent[b] = a;
+        }
+        else {
+            parent[b] = a;
+            rank[a]++;
+        }
+    }
+
+    bool equationsPossible(vector<string>& equations) {
+
+        for (int i = 0; i < 26; i++) {
+            parent[i] = i;
+            rank[i] = 0;
+        }
+
+        for (auto &s : equations) {
             if (s[1] == '=') {
-                char a = s[0];
-                char b = s[3];
+                int a = s[0] - 'a';
+                int b = s[3] - 'a';
 
-                mp[a].push_back(b);
-                mp[b].push_back(a);
+                unite(a, b);
             }
         }
 
-        for (auto &s : e) {
-
+        for (auto &s : equations) {
             if (s[1] == '!') {
+                int a = s[0] - 'a';
+                int b = s[3] - 'a';
 
-                char start = s[0];
-                char target = s[3];
-
-                unordered_set<char> visited;
-                queue<char> q;
-
-                q.push(start);
-                visited.insert(start);
-
-                while (!q.empty()) {
-
-                    char curr = q.front();
-                    q.pop();
-
-                    if (curr == target)
-                        return false;
-
-                    for (char next : mp[curr]) {
-
-                        if (!visited.count(next)) {
-                            visited.insert(next);
-                            q.push(next);
-                        }
-                    }
-                }
+                if (find(a) == find(b))
+                    return false;
             }
         }
 
