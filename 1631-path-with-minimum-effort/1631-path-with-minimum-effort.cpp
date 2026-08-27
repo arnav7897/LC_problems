@@ -4,48 +4,46 @@ public:
         int n = h.size();
         int m = h[0].size();
 
-        vector<vector<int>> dis(n, vector<int>(m, 1e9));
+        priority_queue<
+            pair<int, pair<int,int>>,
+            vector<pair<int, pair<int,int>>>,
+            greater<pair<int, pair<int,int>>>
+        > pq;
+
+        vector<vector<int>> dis(n, vector<int>(m, 1e7));
+
+        pq.push({0, {0, 0}});
         dis[0][0] = 0;
 
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            q;
-
-        q.push({0, {0, 0}});
-
         int dx[] = {1, -1, 0, 0};
-        int dy[] = {0, 0, 1, -1};
+        int dy[] = {0, 0, -1, 1};
 
-        while (!q.empty()) {
-            auto [a, d] = q.top();
-            q.pop();
+        while (!pq.empty()) {
+            auto [effort, pos] = pq.top();
+            auto [x, y] = pos;
+            pq.pop();
 
-            auto [b, c] = d;
-
-            if (a > dis[b][c])
+            if (effort > dis[x][y])
                 continue;
 
-            if (b == n - 1 && c == m - 1)
-                return a;
-
             for (int i = 0; i < 4; i++) {
-                int x = b + dx[i];
-                int y = c + dy[i];
+                int nx = x + dx[i];
+                int ny = y + dy[i];
 
-                if (x < 0 || y < 0 || x >= n || y >= m)
-                    continue;
+                if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
 
-                int diff = abs(h[x][y] - h[b][c]);
-                int effort = max(a, diff);
+                    int edgeEffort = abs(h[x][y] - h[nx][ny]);
 
-                if (dis[x][y] > effort) {
-                    dis[x][y] = effort;
-                    q.push({effort, {x, y}});
+                    int newEffort = max(effort, edgeEffort);
+
+                    if (newEffort < dis[nx][ny]) {
+                        dis[nx][ny] = newEffort;
+                        pq.push({newEffort, {nx, ny}});
+                    }
                 }
             }
         }
 
-        return 0;
+        return dis[n - 1][m - 1];
     }
 };
