@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arnav7897/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arnav7897/Leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/arnav7897/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav7897/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav7897/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arnav7897/Leetcode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arnav7897/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav7897/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/arnav7897/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arnav7897/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/arnav7897/Leetcode_questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav7897/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
