@@ -1,5 +1,6 @@
 class Solution {
 public:
+    unordered_map<string , int> dp;
     bool unique(string s){
         vector<int> f(26,0);
         for(auto&ch : s){
@@ -15,17 +16,19 @@ public:
         if(idx == n){
             return s.length();
         }
-
+        if(dp.find(s)!=dp.end()){
+            return dp[s];
+        }
         string temp = s + arr[idx];
         int ans = INT_MIN;
         if(unique(temp)){
-            return max(solve(arr, idx+1 , temp) , solve(arr,idx+1,s));
+            return dp[s] = max(solve(arr, idx+1 , temp) , solve(arr,idx+1,s));
         }
-        return solve(arr, idx+1 , s);
+        return dp[s] = solve(arr, idx+1 , s);
     }
     int maxLength(vector<string>& arr) {
         int n = arr.size();
-        vector<int> dp(n+1,0);
+        dp.clear();
         return solve(arr, 0 , "");
     }
 };
