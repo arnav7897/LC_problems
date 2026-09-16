@@ -12,7 +12,6 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<vector<int>> order;
         vector<int> ans;
         if(root==NULL){
             return ans;
@@ -22,11 +21,11 @@ public:
         while(!q.empty()){
             auto [a,b] = q.front();
             q.pop();
-            int n = order.size();
+            int n = ans.size();
             if(n-1 >= b){
-                order[b].push_back(a->val);
+                ans[b] = a->val;
             }else{
-                order.push_back({a->val});
+                ans.push_back(a->val);
             }
             if(a->left){
                 q.push({a->left,b+1});
@@ -35,9 +34,7 @@ public:
                 q.push({a->right,b+1});
             }
         }
-        for(auto &it : order){
-            ans.push_back(it.back());
-        }
+
         return ans;
     }
 };
