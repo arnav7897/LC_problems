@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/arnav7897/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arnav7897/Leetcode_questions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arnav7897/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/arnav7897/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/arnav7897/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arnav7897/Leetcode_questions/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arnav7897/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
