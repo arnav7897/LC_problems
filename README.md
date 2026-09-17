@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/arnav7897/Leetcode_questions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [2270-number-of-ways-to-split-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2270-number-of-ways-to-split-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/arnav7897/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2270-number-of-ways-to-split-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2270-number-of-ways-to-split-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
