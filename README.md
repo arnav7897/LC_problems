@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arnav7897/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arnav7897/Leetcode_questions/tree/master/0312-burst-balloons) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arnav7897/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav7897/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/arnav7897/Leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arnav7897/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
@@ -625,4 +628,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
