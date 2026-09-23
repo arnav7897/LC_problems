@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arnav7897/Leetcode_questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1834-single-threaded-cpu](https://github.com/arnav7897/Leetcode_questions/tree/master/1834-single-threaded-cpu) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/arnav7897/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arnav7897/Leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2270-number-of-ways-to-split-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2270-number-of-ways-to-split-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/arnav7897/Leetcode_questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/arnav7897/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/arnav7897/Leetcode_questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Sorting
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/arnav7897/Leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/arnav7897/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Stack
 |  |
 | ------- |
