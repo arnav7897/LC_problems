@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav7897/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/arnav7897/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav7897/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0567-permutation-in-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/arnav7897/Leetcode_questions/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav7897/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/arnav7897/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav7897/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav7897/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0567-permutation-in-string) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/arnav7897/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arnav7897/Leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
@@ -675,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/arnav7897/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/arnav7897/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
