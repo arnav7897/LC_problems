@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/arnav7897/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav7897/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/arnav7897/Leetcode_questions/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/arnav7897/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arnav7897/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/arnav7897/Leetcode_questions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/arnav7897/Leetcode_questions/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -661,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arnav7897/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
