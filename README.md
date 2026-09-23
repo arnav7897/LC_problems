@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/arnav7897/Leetcode_questions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/arnav7897/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1110-delete-nodes-and-return-forest](https://github.com/arnav7897/Leetcode_questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arnav7897/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/arnav7897/Leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/arnav7897/Leetcode_questions/tree/master/1048-longest-string-chain) |
+| [1110-delete-nodes-and-return-forest](https://github.com/arnav7897/Leetcode_questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arnav7897/Leetcode_questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav7897/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arnav7897/Leetcode_questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arnav7897/Leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/arnav7897/Leetcode_questions/tree/master/0802-find-eventual-safe-states) |
+| [1110-delete-nodes-and-return-forest](https://github.com/arnav7897/Leetcode_questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/arnav7897/Leetcode_questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/arnav7897/Leetcode_questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/arnav7897/Leetcode_questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
