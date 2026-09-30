@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnav7897/Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/arnav7897/Leetcode_questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/arnav7897/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/arnav7897/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/arnav7897/Leetcode_questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arnav7897/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arnav7897/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav7897/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
