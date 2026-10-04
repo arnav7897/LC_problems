@@ -1,28 +1,26 @@
 class Solution {
 public:
-    bool ispail(string s, int l, int r) {
-        for(int i = 0; i < (r-l+1)/2; i++) {
-            if(s[l+i] != s[r-i]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     int countSubstrings(string s) {
-        int n = s.length();
         int ans = 0;
-        for(int i = 0 ; i<=n-1; i++){
-            int l = 0;
-            int r = l + i;
-            while(r < n){
-                if(ispail(s,l,r)){
-                    ans++;
-                }
-                l++;
+        int n= s.length();
+        for(int c = 0 ;c<n ;c++){
+            // odd length
+            int r = c;
+            int l = c;
+            while(r<n && l>=0 && s[l] == s[r]){
+                ans++;
                 r++;
+                l--;
             }
-        }
+            // even length
+            r=c+1;
+            l=c;
+            while(r<n && l>=0 && s[l] == s[r]){
+                ans++;
+                r++;
+                l--;
+            }
+        }      
         return ans;
     }
 };
