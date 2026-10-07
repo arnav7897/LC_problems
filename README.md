@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/arnav7897/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Math
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/arnav7897/Leetcode_questions/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav7897/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/arnav7897/Leetcode_questions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/arnav7897/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0542-01-matrix) |
