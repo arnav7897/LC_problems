@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/arnav7897/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/arnav7897/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arnav7897/Leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arnav7897/Leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arnav7897/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnav7897/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/arnav7897/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arnav7897/Leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
