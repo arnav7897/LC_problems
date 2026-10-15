@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/arnav7897/Leetcode_questions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arnav7897/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arnav7897/Leetcode_questions/tree/master/0057-insert-interval) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/arnav7897/Leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
