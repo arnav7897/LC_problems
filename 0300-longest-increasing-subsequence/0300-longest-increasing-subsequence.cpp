@@ -1,39 +1,22 @@
 class Solution {
 public:
-    // int solve(vector<int>& nums , int curr , int prev ,
-    // vector<vector<int>>&dp){
-    //     int n = nums.size();
-    //     if(curr >= n){
-    //         return 0;
-    //     }
-    //     if(dp[curr][prev+1] != -1){
-    //         return dp[curr][prev+1];
-    //     }
-    //     int take = INT_MIN , skip = INT_MIN;
-    //     if(prev == -1 || nums[curr] > nums[prev]){
-    //         take = 1+solve(nums , curr +1 , curr,dp);
-    //     }
-    //     skip = solve(nums , curr+1 , prev ,dp);
-    //     return dp[curr][prev+1] = max(skip,take);
-    // }
-    int lengthOfLIS(vector<int>& nums) {
+    int solve(vector<int>& nums , int idx , int prev , vector<vector<int>> &dp){
         int n = nums.size();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
-
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i; j >= 0; j--) {
-
-                int skip = dp[i + 1][j];
-                int take = 0;
-
-                if (j == 0 || nums[j - 1] < nums[i]) {
-                    take = 1 + dp[i + 1][i + 1];
-                }
-
-                dp[i][j] = max(take, skip);
-            }
+        if(idx == n){
+            return 0;
+        }
+        if(dp[idx][prev+1] != -1){
+            return dp[idx][prev+1];
         }
 
-        return dp[0][0];
+        if( prev==-1 || nums[prev] < nums[idx]){
+            return  dp[idx][prev+1] = max(1+solve(nums , idx+1 , idx , dp) , solve(nums , idx+1 , prev , dp));
+        }
+        return  dp[idx][prev+1] = solve(nums , idx+1 , prev , dp);
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> dp(n , vector<int>(n+1, -1));
+        return solve(nums,0,-1, dp);
     }
 };
