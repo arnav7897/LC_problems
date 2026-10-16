@@ -3,30 +3,32 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<bool>> vis(n , vector<bool>(m, false));
-        queue<pair<int,int>> q;
+        vector<vector<bool>> vis(n , vector<bool>(m , 0));
         int ans = 0;
-        int dx[] = {1,-1,0,0};
-        int dy[] = {0 , 0, 1 , -1};
-        for(int i =0 ;i<n;i++){
-            for(int j =0 ; j<m ;j++){
-                if(!vis[i][j] && grid[i][j] == '1'){
-                    q.push({i,j});
-                    vis[i][j] = true;
-                    while(!q.empty()){
-                        auto [a,b] = q.front();
-                        q.pop();
-                        for(int i =0 ;i<4;i++){
-                            int x = a + dx[i];
-                            int y = b + dy[i];
-                            
-                            if(x >= 0 && y>=0 && x<n && y<m && !vis[x][y] && grid[x][y] == '1'){
-                                q.push({x,y});
-                                vis[x][y] = true;
-                            }
+        for(int i = 0; i<n ; i++){
+            for(int j = 0; j<m ;j++){
+                if(vis[i][j] || grid[i][j] == '0'){
+                    continue;
+                }
+                ans++;
+                queue<pair<int,int>> q;
+                q.push({i,j});
+                vis[i][j]=1;
+                int dx[] = {0,0,1,-1};
+                int dy[] = {1,-1,0,0};
+                while(!q.empty()){
+                    auto [x,y] = q.front();
+                    q.pop();
+                    
+                    for(int k = 0 ;k<4;k++){
+                        int nx = x+dx[k];
+                        int ny = y+dy[k];
+
+                        if(nx >= 0 && nx < n && ny>=0 && ny<m && grid[nx][ny]=='1' && vis[nx][ny]==false){
+                            vis[nx][ny] = true;
+                            q.push({nx , ny});
                         }
                     }
-                    ans++;
                 }
             }
         }
