@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/arnav7897/Leetcode_questions/tree/master/1834-single-threaded-cpu) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/arnav7897/Leetcode_questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arnav7897/Leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2270-number-of-ways-to-split-array) |
 | [2643-row-with-maximum-ones](https://github.com/arnav7897/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav7897/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/arnav7897/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/arnav7897/Leetcode_questions/tree/master/1834-single-threaded-cpu) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnav7897/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/arnav7897/Leetcode_questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arnav7897/Leetcode_questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
 |  |
