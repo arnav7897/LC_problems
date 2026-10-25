@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/arnav7897/Leetcode_questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0063-unique-paths-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/arnav7897/Leetcode_questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arnav7897/Leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arnav7897/Leetcode_questions/tree/master/0056-merge-intervals) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arnav7897/Leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/arnav7897/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arnav7897/Leetcode_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
