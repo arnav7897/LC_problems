@@ -11,37 +11,35 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || !head->next || k <= 1)
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        if(head == NULL || head->next == NULL || k<=1 ){
             return head;
-
-        ListNode dummy(0);
-        dummy.next = head;
-        ListNode* prevGroupEnd = &dummy;
-
-        while (true) {
-            ListNode* kth = prevGroupEnd;
-            for (int i = 0; i < k && kth; ++i)
-                kth = kth->next;
-            if (!kth)
-                break;
-
-            ListNode* groupStart = prevGroupEnd->next;
-            ListNode* nextGroupStart = kth->next;
-
-            ListNode* prev = nextGroupStart;
-            ListNode* curr = groupStart;
-            while (curr != nextGroupStart) {
-                ListNode* tmp = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = tmp;
-            }
-
-            // Connect the reversed group
-            prevGroupEnd->next = kth;
-            prevGroupEnd = groupStart;
         }
 
-        return dummy.next;
+        ListNode* PrevGrp = dummy;
+        while(1){
+            ListNode* kth = PrevGrp;
+            for(int i = 0; i<k && kth!=NULL ;i++){
+                kth = kth->next;
+            }
+            if(kth == NULL){
+                break;
+            }
+            ListNode* NextGrp = kth->next;
+            ListNode* GroupStart = PrevGrp->next;
+            ListNode* curr = PrevGrp->next;
+            ListNode* prev = NextGrp;
+            while(curr != NextGrp){
+                ListNode* next = curr->next;
+                curr->next = prev;
+                prev=curr;
+                curr = next;
+            }
+            PrevGrp->next = kth;
+            PrevGrp = GroupStart;
+        }
+        return dummy->next;
     }
 };
