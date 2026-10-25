@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arnav7897/Leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arnav7897/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/arnav7897/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arnav7897/Leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arnav7897/Leetcode_questions/tree/master/0054-spiral-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnav7897/Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/arnav7897/Leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/arnav7897/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/arnav7897/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/arnav7897/Leetcode_questions/tree/master/0169-majority-element) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/arnav7897/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/arnav7897/Leetcode_questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/arnav7897/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0087-scramble-string) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnav7897/Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/arnav7897/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arnav7897/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arnav7897/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arnav7897/Leetcode_questions/tree/master/0169-majority-element) |
