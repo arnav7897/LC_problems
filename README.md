@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/arnav7897/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/arnav7897/Leetcode_questions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/arnav7897/Leetcode_questions/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/arnav7897/Leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0344-reverse-string) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/arnav7897/Leetcode_questions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnav7897/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/arnav7897/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav7897/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav7897/Leetcode_questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Knapsack Problem
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -892,4 +898,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arnav7897/Leetcode_questions/tree/master/0141-linked-list-cycle) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/arnav7897/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
