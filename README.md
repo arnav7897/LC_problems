@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arnav7897/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/arnav7897/Leetcode_questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1402-reducing-dishes](https://github.com/arnav7897/Leetcode_questions/tree/master/1402-reducing-dishes) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/arnav7897/Leetcode_questions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arnav7897/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arnav7897/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/arnav7897/Leetcode_questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1402-reducing-dishes](https://github.com/arnav7897/Leetcode_questions/tree/master/1402-reducing-dishes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arnav7897/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/arnav7897/Leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/arnav7897/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnav7897/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/arnav7897/Leetcode_questions/tree/master/1048-longest-string-chain) |
+| [1402-reducing-dishes](https://github.com/arnav7897/Leetcode_questions/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/arnav7897/Leetcode_questions/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/arnav7897/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnav7897/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arnav7897/Leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/arnav7897/Leetcode_questions/tree/master/1402-reducing-dishes) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arnav7897/Leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arnav7897/Leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
