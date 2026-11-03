@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arnav7897/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arnav7897/Leetcode_questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnav7897/Leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arnav7897/Leetcode_questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arnav7897/Leetcode_questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/arnav7897/Leetcode_questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arnav7897/Leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arnav7897/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arnav7897/Leetcode_questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Memoization
 |  |
 | ------- |
