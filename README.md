@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arnav7897/Leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2270-number-of-ways-to-split-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/arnav7897/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arnav7897/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arnav7897/Leetcode_questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/arnav7897/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/arnav7897/Leetcode_questions/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arnav7897/Leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/arnav7897/Leetcode_questions/tree/master/1402-reducing-dishes) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/arnav7897/Leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arnav7897/Leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arnav7897/Leetcode_questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arnav7897/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/arnav7897/Leetcode_questions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arnav7897/Leetcode_questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
